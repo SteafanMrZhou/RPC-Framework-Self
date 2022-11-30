@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.steafan.rpc.config.RpcAutoConfiguration,\
+com.steafan.rpc.config.RpcConsumerAutoConfiguration
